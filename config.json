@@ -1,0 +1,10 @@
+{
+    "env": "",
+    "data": {
+        "isLocal": true,
+        "dataByAPI": {
+            "sessionId": "",
+            "env": "hudson"
+        }
+    }
+}
