@@ -1,0 +1,13 @@
+{
+  "name": "testcafe",
+  "version": "1.0.0",
+  "description": "Testcafe",
+  "main": "index.js",
+  "scripts": {
+    "testcafe": "node runner.ts"
+  },
+  "private": true,
+  "dependencies": {
+    "testcafe": "1.2.1"
+  }
+}
